@@ -1,0 +1,64 @@
+==================================================================
+https://keybase.io/mikem
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://mmaxim.org
+  * I am mikem (https://keybase.io/mikem) on keybase.
+  * I have a public key with fingerprint DBAF 5AEF B0EB BA22 F181  40E5 B814 608B 7797 CA08
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "dbaf5aefb0ebba22f18140e5b814608b7797ca08",
+            "host": "keybase.io",
+            "key_id": "b814608b7797ca08",
+            "uid": "95e88f2087e480cae28f08d81554bc00",
+            "username": "mikem"
+        },
+        "service": {
+            "hostname": "mmaxim.org",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1399122220,
+    "expire_in": 157680000,
+    "prev": "63844f005cd728452a2abea5fb64154f8b47c5b8052c451847b267f03b7346c7",
+    "seqno": 15,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v0.1.14
+Comment: https://keybase.io/crypto
+
+yMHdAnicbVFbSBRfGN/1UttKECSYkBITldQqZ2Znds5uEtkWSi+hJdgibHNmzswO
+OjPr7KytbZr+e0jDHszsQkJalkkXUaREKNTsqYj1JY0oVAwzEPpXT0ngGcm3vpeP
+8/t+l3PON7U13eF2spWFcxntrqDzzfhK3HFSWvYkKWRIDVQgSdXg9SaruoLNqKnq
+FhWgJCTInIBlBDBCAsPINKRZgDlEmg9AxPN+XhQApDxUxIjZCmKDhBguUg2CkUNY
+lQj6D358feDnMIQyAyCPWQhEATNQBlCCNMexSATAJsawqQsaJmxNrcEa1eihCFSv
+igRKrudujDUhoWpFhqkQWdQ0LEM0agkesaxowJZZDVGbdxaj8F+HMFJ1iTyZCOqx
+GVMNnQrQhClaqm1Je/1+miEFPBRORFUTh1WbwfE+CEjZMbieWPq8kGVlADhR4hnI
+cozACAgLnIx8LM2xMkQsL5JvAxwjshwNWR4xPl4GXsR7WZ/Ik/wYrtMN25vcU1CI
+Z0xVdMGKm5hqnByvznA43Y5NmWn21hzuLds2drm/e/PvtMzRpwuh4ge5B7xK6nGd
+WS1VeHYsv2s/XO7Kn71+ae7g88+3F537fmg3V/qupXKTTbKr8MQnP5/vetYU2J0u
+vhJ2LrStxs/o5TwTX5qJjKHV/KXTRV+OfvyVkxPOuvdoQEl33WkuvluQPRscGmaf
+4JbEQMn9q11TvfrYQsehROf8pAgHLwzd6M8b2XXujyKLq03B7RNlLdl9XRR6gSU1
+5jpyuWpvKFJ78cPPrBKzIuf9nkDbV/3bw8H5EBphXv430dJ563V3QS9OhUrz+l2n
+ZmegZv1/pfJ79bGOhulpMTfsztaqWstHz5cGW8ebe/B8T2rxrdPSy4aPrwFM5Ql+
+=J478
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mikem
+
+==================================================================
