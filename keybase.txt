@@ -62,3 +62,57 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/mikem
 
 ==================================================================
+==================================================================
+https://keybase.io/candrencil
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mmaxim.org
+  * I am candrencil (https://keybase.io/candrencil) on keybase.
+  * I have a public key ASAWpyxYcHEDWqs9Nspj80QaLGet7snyjkeVQgHAVftqFwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101655b5142826399ea16b98f817fc104798c8a2d363cee92429b9a83ad693a61d10a",
+            "host": "keybase.io",
+            "kid": "012016a72c587071035aab3d36ca63f3441a2c67adeec9f28e47954201c055fb6a170a",
+            "uid": "fde3643b7fb7285dc11778cad0abcb19",
+            "username": "candrencil"
+        },
+        "service": {
+            "hostname": "mmaxim.org",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1485899245,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1485899226,
+        "hash": "09639788a9e93005233f737121a590f9137348d8df671f40b3ae4a44f7662b6f6a2b15368def44a24a566401862bbf9d8994e0da183d2313b90ba40e54ce5495",
+        "seqno": 827525
+    },
+    "prev": "89cd95d79f6a419d3957d68c895ecb861b0715e5d73b7a332d918edc39ed7251",
+    "seqno": 18,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgFqcsWHBxA1qrPTbKY/NEGixnre7J8o5HlUIBwFX7ahcKp3BheWxvYWTFAvV7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxNjU1YjUxNDI4MjYzOTllYTE2Yjk4ZjgxN2ZjMTA0Nzk4YzhhMmQzNjNjZWU5MjQyOWI5YTgzYWQ2OTNhNjFkMTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMTZhNzJjNTg3MDcxMDM1YWFiM2QzNmNhNjNmMzQ0MWEyYzY3YWRlZWM5ZjI4ZTQ3OTU0MjAxYzA1NWZiNmExNzBhIiwidWlkIjoiZmRlMzY0M2I3ZmI3Mjg1ZGMxMTc3OGNhZDBhYmNiMTkiLCJ1c2VybmFtZSI6ImNhbmRyZW5jaWwifSwic2VydmljZSI6eyJob3N0bmFtZSI6Im1tYXhpbS5vcmciLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xOCJ9LCJjdGltZSI6MTQ4NTg5OTI0NSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDg1ODk5MjI2LCJoYXNoIjoiMDk2Mzk3ODhhOWU5MzAwNTIzM2Y3MzcxMjFhNTkwZjkxMzczNDhkOGRmNjcxZjQwYjNhZTRhNDRmNzY2MmI2ZjZhMmIxNTM2OGRlZjQ0YTI0YTU2NjQwMTg2MmJiZjlkODk5NGUwZGExODNkMjMxM2I5MGJhNDBlNTRjZTU0OTUiLCJzZXFubyI6ODI3NTI1fSwicHJldiI6Ijg5Y2Q5NWQ3OWY2YTQxOWQzOTU3ZDY4Yzg5NWVjYjg2MWIwNzE1ZTVkNzNiN2EzMzJkOTE4ZWRjMzllZDcyNTEiLCJzZXFubyI6MTgsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAbcGMKzMWo6IbgRD9ChgVqzCCLwpzdpkoAXmKpulrODAvDUwSeh49hCZrQXXBmHP4STK0rcdkgwVzvVwi1NhmBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMkt5G+X3HZsoPh7DpGMYk6XoceXDzIL27lMoPpdFNdzo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/candrencil
+
+==================================================================
