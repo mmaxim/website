@@ -1,0 +1,72 @@
+<html>
+    <head>
+        <title>ZbChat Meeting</title>
+		<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,300" rel="stylesheet" type="text/css">
+		<style>
+			body {
+				font-family: 'Open Sans';
+			}
+			div {
+				display: flex;
+			}
+			.vbox {
+				flex-direction: column;
+			}
+			.hbox {
+				flex-direction: row;
+			}
+			#container {
+				width: 800px;
+				align-items: center;
+				margin-left: auto;
+				margin-right: auto;
+				margin-top: 100px;
+			}
+			#meetingID {
+				font-weight: 800;
+			}
+			#content {
+				align-items: center;
+				margin-top: 40px;
+				gap: 60px;
+			}
+			#heading {
+				align-items: center;
+				font-size: 28px;
+				gap: 12px;
+			}
+			#heading img {
+				width: 80px;
+				height: 80px;
+			}
+		</style>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+        <script>
+           $(document).ready(function () {
+				const path = window.location.pathname
+				const meetingID = path.substring(path.lastIndexOf('/') + 1);
+				$('#meetingID').text(meetingID)
+				const link = 'zbchat:/' + path;
+				$('#link').attr('href', link);
+    			window.setTimeout(function () {
+        			location.href = link
+    			}, 2000);
+			}); 
+        </script>
+    </head>
+	<body>
+		<div id="container" class="vbox">
+			<div id="heading" class="hbox">
+				<img id="logo" src="/512.png" />
+				<span>ZbChat Meetings</span>
+			</div>
+			<div id="content" class="vbox">
+				<div style="align-items: center" class="vbox">
+					<span>You will be joining the following meeting</span>
+					<span id="meetingID"></span>
+				</div>
+				<span>Click <a id="link" href="">here</a> if ZbChat does not open.</span>
+			</div>
+		</div>
+	</body>
+</html>
